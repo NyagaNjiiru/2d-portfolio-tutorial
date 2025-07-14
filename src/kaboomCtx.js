@@ -1,7 +1,9 @@
+import kaboom from "kaboom";
+import { scaleFactor } from "./constants";
+
 export const k = kaboom({
-  width: 640,
-  height: 480,
-  scale: 2,
+  global: false,
+  touchToMouse: true,
   canvas: document.getElementById("game"),
-  background: [48, 0, 48],
+  debug: false, // set to false once ready for production
 });

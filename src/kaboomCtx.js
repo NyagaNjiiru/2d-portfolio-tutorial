@@ -1,8 +1,7 @@
-import kaboom from "kaboom";
-
-export const k = kaboom(
-    {
-        global: false,
-        touchToMouse: true,
-        canvas: document.getElementById("game"),
-    });
+export const k = kaboom({
+  width: 640,
+  height: 480,
+  scale: 2,
+  canvas: document.getElementById("game"),
+  background: [48, 0, 48],
+});

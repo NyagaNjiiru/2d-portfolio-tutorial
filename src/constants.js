@@ -13,7 +13,7 @@ export const dialogueData = {
   Contact me at nyaganjiiru@gmail.com if you have any interesting job opportunities!`,
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
   Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. 
-  Check out one of my live web projects: <a href="https://khalkeus.co.ke/" target="_blank">Khalkeus Construction Group</a>.`,
+  Check out one of my live web projects: <a href="https://khalkeus.co.ke/" target="_blank">Khalkeus Construction Group</a> and <a href="https://techneia-crm.vercel.app/login" target="_blank">Techneia CRM</a>.`,
   library: `My shelves are stacked with books on algorithms, systems design, and game theory. Some are well-read, others… aesthetic choices. 
   I believe in learning by doing, so that's what I try to stick to.`,
   exit: `Need to leave? Just close the tab. But if you liked what you saw, let's connect!`,
